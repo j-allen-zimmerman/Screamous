@@ -1,0 +1,130 @@
+.konten{
+    display: flex;
+}
+.kotakgede{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+}
+.gambarproduk1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+}
+.gmbrproduk{
+    width: 150px;
+    height: auto;
+    padding: 20px;
+}
+.gambarproduk2{
+    display: flex;
+}
+.gambarprodukgede{
+    width: 800px;
+    height: auto;
+}
+.descproduk{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 20px;
+}
+.text1{
+
+padding-bottom: 30px;
+border-bottom: 2px solid black;
+}
+.judul{
+    font-size: 30px;
+    color:  #6B6464 ;
+}
+.code{
+    font-size: 12px;
+}
+.harga{
+    font-size: 20px;
+}
+.text2{
+    font-size: 20px;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+.judul2{
+    display: flex;
+    flex-direction: row;
+    color: black;
+    /* padding-bottom: 10px; */
+}
+.size{
+    padding-bottom: 10px;
+    /* padding-top: 10px; */
+}
+.formatt {
+    border: 1px solid #000000;
+    display: inline-block;
+}
+
+.kotakwarna{
+    width: 70px;
+    height: 70px;
+    background-color: black;
+    margin: 0.8rem;
+    border: 1px solid #000000;
+}
+.NON{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 90px;
+    height: 45px;
+    border: 20px;
+    border: 1px solid #000000;
+}
+.quantity{
+    padding-bottom: 10px;
+}
+.quantitybtn{
+    width: auto;
+    display: flex;
+    flex-direction:row;
+}
+.btn{
+    padding: 10px;
+    /* border: 20px; */
+    border: 20px;
+    border: 1px solid #000000;
+}
+.addtochart{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #000232;
+    color: white;
+}
+
+.format{
+    padding-top: 15px;
+}
+.text3{
+    padding-top: 50px;
+}
+.isitext3{
+    padding-bottom: 20px;
+}
+
+.logo-sosmed{
+    display: flex;
+    flex-direction: row;
+}
+
+.logo-sosmed i{
+    font-size: 25px;
+}
+
+.logo-sosmed p{
+    margin: 0 20px 0 8px;
+}

@@ -1,0 +1,101 @@
+.konten {
+    padding: 2rem 4%;
+}
+
+.konten h3 {
+    font-size: 2.3rem;
+    font-weight: 500;
+    margin-bottom: 1.8rem;
+}
+
+.konten p{
+    font-size: 1.5rem;
+    font-family: 'Abel',sans-serif;
+    margin-bottom: 2rem;
+}
+
+.box{
+    text-align: center;
+}
+
+.box img {
+    width: 50%;
+}
+
+.Button {
+    text-align: center;
+}
+
+.Button a{
+    text-decoration: none;
+    display: inline-block;
+    background-color: #000232;
+    color: #ffffff;
+    font-size: 16px;
+    padding: .6rem 3rem;
+    border: none;
+    cursor: pointer;
+    opacity: 1;
+    margin-bottom: 5rem;
+}
+
+.youmayalsolike {
+    padding: 2rem 10%;
+}
+
+.youmayalsolike h3{
+    font-weight: 500;
+}
+
+hr {
+    margin: 1rem 2%;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.kotakgede{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.kotakkonten{
+    padding: 15px;
+}
+
+.kotakgambar img{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+}
+
+.gambarkonten{
+    width: 350px;
+    height: auto;
+}
+
+.textdesc{
+    padding-top: 15px;
+    text-align: center;
+}
+
+.Button2 {
+    padding: 2rem 10%;
+    text-align: right;
+}
+
+.Button2 a{
+    text-decoration: none;
+    display: inline-block;
+    background-color: #000232;
+    color: #ffffff;
+    font-size: 16px;
+    padding: .6rem 3rem;
+    border: none;
+    cursor: pointer;
+    opacity: 1;
+    margin-bottom: 5rem;
+}

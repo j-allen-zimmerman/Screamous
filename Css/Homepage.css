@@ -1,0 +1,42 @@
+
+.konten{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.judulmarch{
+    padding-top: 30px;
+    padding-left: 30px;
+    text-align: left;
+    font-size :30px;
+}
+.kotakgede{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+    padding-bottom: 100px;
+}
+.kotakkonten{
+    padding: 15px;
+}
+.kotakgambar{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,0.2);
+}
+.gambarkonten{
+    width:350px;
+    height: auto;
+}
+.textdesc{
+    padding-top: 15px;
+}
+.Button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000232;
+    color: white;
+    width: 200px;
+    height: 70px;
+    
+}
